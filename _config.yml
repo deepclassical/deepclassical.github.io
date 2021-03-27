@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Audio Samples of DeepClassical
+github:
+  is_project_page: false
