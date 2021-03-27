@@ -1,3 +1,5 @@
 github:
 is_project_page: false
 title: Audio Samples of DeepClassical
+
+theme: jekyll-theme-cayman
