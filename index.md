@@ -6,7 +6,7 @@ A 42-second extract from BWV 1001.4 Presto is provided as the reference for part
 <source id="mp3" src="Re_Bach.mp3">
 </audio>
 
-In our experiments, participants are randomly presented with three different questions. The three questions, in order, are beginning, middle, and ending discrimination questions, which ask participants to select audio that is considered to be an extract from a piece composed by Bach. Listen to some of the audio we used in our experiments.
+In our experiments, participants are randomly presented with three different questions. The three questions, in order, are beginning, middle, and ending discrimination questions, which ask participants to select audio that is considered to be an extract from a piece composed by Bach. Listen to some of the audio samples used in our experiments.
 
 ### Beginning
 
