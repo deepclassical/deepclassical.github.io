@@ -12,10 +12,6 @@ In our experiments, participants are randomly presented with three different que
 
 <table>
     <tr>
-        <th> </th>
-        <th>Sample</th>
-    </tr>
-    <tr>
         <th>J.S. Bach</th>
         <th><audio id="audio" controls="" preload="none">
             <source id="mp3" src="Q1_Bach.mp3">
@@ -41,10 +37,6 @@ In our experiments, participants are randomly presented with three different que
 
 <table>
     <tr>
-        <th> </th>
-        <th>Sample</th>
-    </tr>
-    <tr>
         <th>J.S. Bach</th>
         <th><audio id="audio" controls="" preload="none">
             <source id="mp3" src="Q2_Bach.mp3">
@@ -69,10 +61,6 @@ In our experiments, participants are randomly presented with three different que
 ### Ending
 
 <table>
-    <tr>
-        <th> </th>
-        <th>Sample</th>
-    </tr>
     <tr>
         <th>J.S. Bach</th>
         <th><audio id="audio" controls="" preload="none">
