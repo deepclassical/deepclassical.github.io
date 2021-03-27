@@ -1,8 +1,8 @@
 ## Audio Samples of DeepClassical
 
-These audio samples are used for the comparison of the works composed by J.S. Bach, DeepClassical and DeepClassical-linear. The MIDI files were rendered using the Strings Staccato soundfont from GarageBand, and all scores were uniformly performed at the default speed (bpm=120) and velocity (velocity=90). Thus, we can focus on the differences in the contents of scores without being distracted by the performing style.
+These audio samples are used in the discrimination experiments. The MIDI files were rendered using the Strings Staccato soundfont from GarageBand, and all scores were uniformly performed at the default speed (bpm=120) and velocity (velocity=90). Thus, we can focus on the differences in the contents of scores without being distracted by the performing style.
 
-A 42-second extract from BWV 1001.4 Presto is provided as the reference (not included in discrimination experiments) for participants who are unfamiliar with Bach's compositions. 
+A 42-second extract from BWV 1001.4 Presto is provided as the reference for participants who are unfamiliar with Bach's compositions. 
 
 <audio id="audio" controls="" preload="none">
 <source id="mp3" src="Re_Bach.mp3">
