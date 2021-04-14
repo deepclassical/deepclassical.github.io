@@ -11,7 +11,7 @@ A 42-second extract from BWV 1001.4 Presto is provided as the reference for part
     <audio id="audio" controls="" preload="none">
     <source id="mp3" src="Re_Bach.mp3">
     </audio>
-</div align=center>
+</div>
     
 ![Image text](Bach-1.png)
 
