@@ -1,2 +1,2 @@
-theme: jekyll-theme-tactile
-title: Audio Samples of DeepClassical
+display: flex;
+  align-items: center;
