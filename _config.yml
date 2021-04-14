@@ -1,4 +1,4 @@
+theme: jekyll-theme-cayman
+title: A Model Based on Bidirectional Long Short-Term Memory Network for Classical Music Generation by Inpainting
 display: flex;
   align-items: center;
-
-theme: jekyll-theme-cayman
